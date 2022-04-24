@@ -7,4 +7,4 @@ Art statement meant to "ease" the user's stress to current world tragedies like 
 
 For a complete runthrough & documentation of project please look at the website I created for this project https://villalobosctatiana.wixsite.com/my-site
 
-https://github.com/tatiana-villa/ICAM-Senior-Project/blob/master/ICAMseniorProjectGIF.gif
+![](https://github.com/tatiana-villa/ICAM-Senior-Project/blob/master/ICAMseniorProjectGIF.gif)
